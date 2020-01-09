@@ -79,4 +79,11 @@ Delete the copied `interactive-rebase-tool`
 
 Download the tool from the [releases page][releases] and save it to a known location.
 
+The tool can also be installed with [Scoop][scoop]:
+
+    scoop install git-interactive-rebase-tool
+
 [releases]:https://github.com/MitMaro/git-interactive-rebase-tool/releases
+[scoop]:https://scoop.sh/
+
+
